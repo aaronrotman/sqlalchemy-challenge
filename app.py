@@ -45,13 +45,13 @@ def index():
     <br>
     Start date:
     <br>
-    <a href="/api/v1.0/<start_date>">/api/v1.0/<start_date></a>
+    <a href="/api/v1.0/<start_date>">/api/v1.0/start_date</a>
     <br>
     Example: <a href="/api/v1.0/2016-08-01">/api/v1.0/2016-08-01</a>
     <br><br>
     Start and end date:
     <br>
-    <a href="/api/v1.0/<start_date>/<end_date>">/api/v1.0/<start_date>/<end_date></a>
+    <a href="/api/v1.0/<start_date>/<end_date>">/api/v1.0/start_date/end_date</a>
     <br>
      Example: <a href="/api/v1.0/2016-08-01/2017-08-01">/api/v1.0/2016-08-01/2017-08-01</a>
     ''')
